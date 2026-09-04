@@ -266,7 +266,7 @@ A few key breakpoints still control specific structural changes (like the mobile
 - **Surface Duo:** 540×720 (single screen portrait), 720×540 (single screen landscape), and 1114×705 (unfolded/spanned)
 - **iPad Air:** 820×1180 (portrait) and 1180×820 (landscape)
 
----
+----
 
 ## 🙋 Need Changes?
 
